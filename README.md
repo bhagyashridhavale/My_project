@@ -7,6 +7,21 @@ All projects are available as **public repositories** on GitHub.
 
 ## 🌐 Web Design Projects
 
+1. 🛒 [E-commerce Website](https://github.com/bhagyashridhavale/ecommerce_website)  
+   Online shopping platform with modern UI/UX.
+
+2. ✍️ [Blog Website](https://github.com/bhagyashridhavale/blog_website)  
+   Personal blogging site with responsive design.
+
+3. 📢 [Marketing Website](https://github.com/bhagyashridhavale/marketing_website)  
+   Digital marketing website with lead generation features.
+
+4. 🍽️ [Restaurant Website](https://github.com/bhagyashridhavale/reastaurant_website)  
+   Restaurant menu and booking site.
+
+5. 🎨 [Corporate Website](https://github.com/bhagyashridhavale/balaji_website)  
+## 🌐 Web Design Projects
+
 1. 🛒 [E-commerce Website](https://github.com/your-username/ecommerce_website)  
    Online shopping platform with modern UI/UX.
 
@@ -19,9 +34,8 @@ All projects are available as **public repositories** on GitHub.
 4. 🍽️ [Restaurant Website](https://github.com/your-username/restaurant_website)  
    Restaurant menu and booking site.
 
-5. 🎨 [Portfolio Website](https://github.com/your-username/Website_Portfolio)  
-   Personal portfolio showcasing my skills and projects.
-
+5. 🏢 [Corporate Website](https://github.com/your-username/Website_Portfolio)  
+   Professional corporate website built for a client.
 ---
 
 ## 🐍 Python Projects
@@ -44,8 +58,3 @@ All projects are available as **public repositories** on GitHub.
 - **Bhagyashri Ramesh Dhavale**  
 - 📧 [bhagyashridhavale68@gmail.com]  
 - 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
-
----
-
-📌 **Shareable Resume Link:**  
-👉 `https://github.com/your-username/My-Projects`
