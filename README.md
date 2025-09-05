@@ -1,30 +1,6 @@
 # 📂 My Projects Collection
 
 This repository is a **showcase of my work**, including **web design projects** and **Python data/ML projects**.  
-All projects are available as **public repositories** on GitHub.
-
----
-
-## 🗂️ Projects Included
-
-1. 🛒 [[E-commerce Website](https://github.com/bhagyashridhavale/ecommerce_website/tree/main) 
-   - Online shopping platform with modern UI/UX.
-
-2. ✍️ [Blog Website](https://github.com/bhagyashridhavale/blog_website)  
-   - Personal blogging site with responsive design.
-
-3. 📢 [Marketing Website](https://github.com/bhagyashridhavale/marketing_website)
-   - Digital marketing website with lead generation features.
-
-4. 🍽️ [Restaurant Website](https://github.com/bhagyashridhavale/reastaurant_website)  
-   - Restaurant menu and booking site.
-
-5. 🎨 [Corporate Website](https://github.com/bhagyashridhavale/balaji_website) 
-   - Personal portfolio showcasing my skills and projects.
-
-# 📂 My Projects Collection
-
-This repository is a **showcase of my work**, including **web design projects** and **Python data/ML projects**.  
 All projects are available as **public repositories** on GitHub.  
 
 ---
