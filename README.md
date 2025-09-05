@@ -20,23 +20,6 @@ All projects are available as **public repositories** on GitHub.
    Restaurant menu and booking site.
 
 5. 🎨 [Corporate Website](https://github.com/bhagyashridhavale/balaji_website)  
-## 🌐 Web Design Projects
-
-1. 🛒 [E-commerce Website](https://github.com/your-username/ecommerce_website)  
-   Online shopping platform with modern UI/UX.
-
-2. ✍️ [Blog Website](https://github.com/your-username/blog_website)  
-   Personal blogging site with responsive design.
-
-3. 📢 [Marketing Website](https://github.com/your-username/marketing_website)  
-   Digital marketing website with lead generation features.
-
-4. 🍽️ [Restaurant Website](https://github.com/your-username/restaurant_website)  
-   Restaurant menu and booking site.
-
-5. 🏢 [Corporate Website](https://github.com/your-username/Website_Portfolio)  
-   Professional corporate website built for a client.
----
 
 ## 🐍 Python Projects
 
