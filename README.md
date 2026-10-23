@@ -7,19 +7,13 @@ All projects are available as **public repositories** on GitHub.
 
 ## 🌐 Web Design Projects
 
-1. 🛒 [E-commerce Website](https://github.com/bhagyashridhavale/ecommerce_website)  
-   Online shopping platform with modern UI/UX.
-
-2. ✍️ [Blog Website](https://github.com/bhagyashridhavale/blog_website)  
-   Personal blogging site with responsive design.
-
-3. 📢 [Marketing Website](https://github.com/bhagyashridhavale/marketing_website)  
+1. 📢 [Marketing Website](https://github.com/bhagyashridhavale/marketing_website)  
    Digital marketing website with lead generation features.
 
-4. 🍽️ [Restaurant Website](https://github.com/bhagyashridhavale/reastaurant_website)  
+2. 🍽️ [Restaurant Website](https://github.com/bhagyashridhavale/reastaurant_website)  
    Restaurant menu and booking site.
 
-5. 🎨 [Corporate Website](https://github.com/bhagyashridhavale/balaji_website)  
+3. 🎨 [Corporate Website](https://github.com/bhagyashridhavale/balaji_website)  
 
 ## 🐍 Python Projects
 
